@@ -1,0 +1,13 @@
+.x{
+    padding: 10px;
+    height: 250px;
+    width: 200px;
+    background-color: white;
+}
+.fo{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+    width: 150px;
+    height: 40px;
+}
